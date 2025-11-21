@@ -1,0 +1,7 @@
+header {
+  background-color: rgb(207, 207, 207);
+  color: black;
+  /*top/bottom left/right*/
+  /*top right bottom left*/
+  padding: 100px 50px;
+}

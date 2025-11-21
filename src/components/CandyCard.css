@@ -1,0 +1,19 @@
+.card {
+  background-color: white;
+  width: 250px;
+  color: black;
+  transition: all 0.25s ease-in-out;
+  margin-bottom: 25px;
+}
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.7);
+}
+
+.card img {
+  width: 100%;
+}
+.card p {
+  /* top right bottom right */
+  padding: 0px 10px 30px 10px;
+}
